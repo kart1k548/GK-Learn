@@ -23,6 +23,6 @@ Trial Class:
 Courses:
 ![](images/Courses.png)
 
-![](images/Courses2.png)
+![](images/Courses%202.png)
 
 
